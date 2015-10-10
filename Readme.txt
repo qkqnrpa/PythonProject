@@ -1,2 +1,2 @@
 #Readme.txt
-test git
+Test Git
